@@ -1,0 +1,36 @@
+{
+  "name": "irepairboulder",
+  "version": "1.0.0",
+  "description": "Fixing Boulder One Phone at a Time",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keatonjwhitehead/iRepairBoulder.git"
+  },
+  "keywords": [
+    "Phone",
+    "Repair",
+    "React",
+    "React-app",
+    "Javascript",
+    "Replacement",
+    "Solutions",
+    "Code",
+    "Learning",
+    "iPhone",
+    "Android"
+  ],
+  "author": "Keaton Whitehead",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keatonjwhitehead/iRepairBoulder/issues"
+  },
+  "homepage": "https://github.com/keatonjwhitehead/iRepairBoulder#readme",
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  }
+}
